@@ -47,4 +47,4 @@ The smart contract is written in Solidity and uses OpenZeppelin library for cryp
 Please note that this contract has not been professionally audited. Use it at your own risk.
 
 ## License
-fileXcure is released under the [MIT License](https://github.com/dhruv1972/Tamper-Proof/LICENSE.md).
+Tamper-Proof is released under the [MIT License](https://github.com/dhruv1972/Tamper-Proof/LICENSE.md).
